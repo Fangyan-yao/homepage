@@ -1,215 +1,189 @@
-- title: "A convergent evolving finite element method with artificial tangential motion for surface evolution under a prescribed velocity field"
+```yaml
+- title: "Convergence of a moving window method for the Schrödinger equation with potential on ℝᵈ"
   year: 2024
-  type: journal
+  type: submitted
   label: 
   image: 
   description: 
-  authors: G. Bai, J. Hu, and B. Li
-  link_pre: 
-    url: 
-    display: 
+  authors: Arieh Iserles, Buyang Li, and Fangyan Yao
   link_main:
-    url: https://epubs.siam.org/doi/10.1137/23M156968X
-    display: SIAM Journal on Numerical Analysis
+    url: https://arxiv.org/abs/2408.09463
+    display: ArXiv
   bibtex: | 
-    @article{BHL2024SJNA,
-      title = {A convergent evolving finite element method with artificial tangential motion for surface evolution under a prescribed velocity field},
-      author = {Bai, Genming and Hu, Jiashun and Li, Buyang},
-      volume = {62},
-      number = {5},
-      pages = {2172--2195},
-      journal = {SIAM J. Numer. Anal.},
-      year = {2024}
-      }
-
-- title: "High-order mass- and energy-conserving methods for the nonlinear Schrodinger equation"
-  year: 2024
-  type: journal
-  label: 
-  image: 
-  description: 
-  authors: G. Bai, J. Hu, and B. Li
-  link_pre: 
-    url: 
-    display: 
-  link_main:
-    url: https://epubs.siam.org/doi/abs/10.1137/22M152178X
-    display: SIAM Journal on Scientific Computing
-  bibtex: | 
-    @article{BHL2024SJSC,
-      title = {High-order mass- and energy-conserving methods for the nonlinear Schrodinger equation},
-      author = {Bai, Genming and Hu, Jiashun and Li, Buyang},
-      volume = {46},
-      number = {2},
-      pages = {A1026-A1046},
-      doi = {10.1137/22M152178X},
-      journal = {SIAM J. Sci. Comput.},
-      year = {2024}
+    @misc{Iserles-Li-Yao,
+      title = {Convergence of a moving window method for the Schrödinger equation with potential on ℝᵈ},
+      author = {Iserles, Arieh and Li, Buyang and Yao, Fangyan},
+      note = {Submitted, 2024},
+      url = {https://arxiv.org/abs/2408.09463}
     }
 
-- title: "Evolving finite element methods with an artificial tangential velocity for mean curvature flow and Willmore flow"
+- title: "Numerical approximation of discontinuous solutions of the semilinear wave equation"
+  year: 2024
+  type: journal
+  label: 
+  image: 
+  description: 
+  authors: Jiachuan Cao, Buyang Li, Yanping Lin, and Fangyan Yao
+  link_main:
+    url: https://arxiv.org/abs/2312.10392
+    display: SIAM Journal on Numerical Analysis
+  bibtex: | 
+    @article{Cao-Li-Lin,
+      title = {Numerical approximation of discontinuous solutions of the semilinear wave equation},
+      author = {Cao, Jiachuan and Li, Buyang and Lin, Yanping and Yao, Fangyan},
+      journal = {SIAM J. Numer. Anal.},
+      year = {2024},
+      note = {Accepted},
+      url = {https://arxiv.org/abs/2312.10392}
+    }
+
+- title: "A fully discrete low-regularity integrator for the Korteweg-de Vries equation"
+  year: 2023
+  type: journal
+  label: 
+  image: 
+  description: 
+  authors: Yongsheng Li and Fangyan Yao
+  link_main:
+    url: https://dx.doi.org/10.4310/CMS.2023.v21.n7.a8
+    display: Communications in Mathematical Sciences
+  bibtex: | 
+    @article{Li-Yao-2023,
+      title = {A fully discrete low-regularity integrator for the Korteweg-de Vries equation},
+      author = {Li, Yongsheng and Yao, Fangyan},
+      journal = {Commun. Math. Sci.},
+      year = {2023},
+      volume = {21},
+      number = {7},
+      pages = {1917--1935},
+      doi = {10.4310/CMS.2023.v21.n7.a8}
+    }
+
+- title: "A first-order Fourier integrator for the nonlinear Schrödinger equation on 𝕋 without loss of regularity"
   year: 2022
   type: journal
   label: 
   image: 
   description: 
-  authors: J. Hu, and B. Li
-  link_pre: 
-    url: 
-    display: 
+  authors: Yifei Wu and Fangyan Yao
   link_main:
-    url: https://link.springer.com/article/10.1007/s00211-022-01309-9
-    display: Numerische Mathematik
+    url: https://www.ams.org/journals/mcom/2022-91-335/S0025-5718-2021-03705-9/home.html
+    display: Mathematics of Computation
   bibtex: | 
-    @article{HL2022NM,
-      title = {Evolving finite element methods with an artificial tangential velocity for mean curvature flow and Willmore flow},
-      author = {Hu, Jiashun and Li, Buyang},
-      volume = {152},
-      number = {1},
-      pages = {127--181},
-      doi = {10.1007/s00211-022-01309-9},
-      journal = {Numer. Math.},
-      year = {2022}
+    @article{Wu-Yao,
+      title = {A first-order Fourier integrator for the nonlinear Schrödinger equation on 𝕋 without loss of regularity},
+      author = {Wu, Yifei and Yao, Fangyan},
+      journal = {Math. Comp.},
+      year = {2022},
+      volume = {91},
+      number = {335},
+      pages = {1212--1235},
+      doi = {10.1090/mcom/3705}
     }
 
-- title: "Coexistence of a new type of bound state in the continuum and a lasing threshold mode induced by PT symmetry"
-  year: 2020
+- title: "A fully discrete low-regularity integrator for the nonlinear Schrödinger equation"
+  year: 2022
   type: journal
   label: 
   image: 
-  description: A new type of bound states induced by PT symmetry is found which does not radiate but can be excited from the far field.
-  authors: Q. Song, J. Hu, S. Dai, C. Zheng, D. Han, J. Zi, Z. Q. Zhang, C. T. Chan
-  link_pre: 
-    url: 
-    display: 
+  description: 
+  authors: Alexander Ostermann and Fangyan Yao
   link_main:
-    url: https://www.science.org/doi/10.1126/sciadv.abb0197
-    display: Sci. Adv.
+    url: https://link.springer.com/10.1007/s10915-022-01786-y
+    display: Journal of Scientific Computing
   bibtex: | 
-    @article{SHD+2020SA,
-      title = {Coexistence of a new type of bound state in the continuum and a lasing threshold mode induced by {{PT}} symmetry},
-      author = {Song, Qianju and Hu, Jiashun and Dai, Shiwei and Zheng, Chunxiong and Han, Dezhuan and Zi, Jian and Zhang, Z. Q. and Chan, C. T.},
-      journal = {Sci. Adv.},
-      year = {2020},
-      doi = {10.1126/sciadv.abb0197}
-    }
-
-- title: "Optimal error estimate of the extended-WKB approximation to the high frequency wave-type equation in the semi-classical regime"
-  year: 2020
-  type: journal
-  label: 
-  image: 
-  description: For the Cauchy problem of the high frequency wave-type equation with Wentzel--Kramers--Brillouin (WKB) type initial data, the extended Wentzel--Kramers--Brillouin (E-WKB) ansatz is an asymptotically valid solution.
-  authors: C. Zheng, J. Hu
-  link_pre: 
-    url: 
-    display: 
-  link_main:
-    url: 
-    display: J. Sci. Comput.
-  bibtex: | 
-    @article{ZH2020JSC,
-      title = {Optimal error estimate of the extended-WKB approximation to the high frequency wave-type equation in the semi-classical regime},
-      author = {Zheng, Chunxiong and Hu, Jiashun},
+    @article{Ostermann-Yao,
+      title = {A fully discrete low-regularity integrator for the nonlinear Schrödinger equation},
+      author = {Ostermann, Alexander and Yao, Fangyan},
       journal = {J. Sci. Comput.},
-      year = {2020}
+      year = {2022},
+      volume = {91},
+      number = {1},
+      pages = {9},
+      doi = {10.1007/s10915-022-01786-y}
     }
 
-- title: "Extended WKB analysis for the linear vectorial wave equation in the high-frequency regime"
-  year: 2020
+- title: "A second-order low-regularity integrator for the nonlinear Schrödinger equation"
+  year: 2022
   type: journal
   label: 
   image: 
   description: 
-  authors: C. Zheng, J. Hu
-  link_pre: 
-    url: 
-    display: 
+  authors: Alexander Ostermann, Yifei Wu, and Fangyan Yao
   link_main:
-    url: https://doi.org/10.4310/CMS.2020.v18.n3.a5
-    display: Commun. Math. Sci.
+    url: https://ncesindifferenceequations.springeropen.com/articles/10.1186/s13662-022-03695-8
+    display: Advances in Continuous and Discrete Models
   bibtex: | 
-    @article{ZH2020CMS,
-      title = {Extended {{WKB}} analysis for the linear vectorial wave equation in the high-frequency regime},
-      author = {Zheng, Chunxiong and Hu, Jiashun},
-      journal = {Commun. Math. Sci.},
-      volume = {18},
-      pages = {687--706},
-      doi = {10.4310/CMS.2020.v18.n3.a5},
-      year = {2020}
+    @article{Ostermann-Wu-Yao,
+      title = {A second-order low-regularity integrator for the nonlinear Schrödinger equation},
+      author = {Ostermann, Alexander and Wu, Yifei and Yao, Fangyan},
+      journal = {Adv. Cont. Disc. Models},
+      year = {2022},
+      number = {23},
+      doi = {10.1186/s13662-022-03695-8}
     }
 
-- title: "Global geometrical optics method for vector-valued Schrodinger problems"
-  year: 2018
+- title: "A second-order embedded low-regularity integrator for the quadratic nonlinear Schrödinger equation"
+  year: 2022
   type: journal
   label: 
   image: 
   description: 
-  authors: J. Hu, X. Ma and C. Zheng
-  link_pre: 
-    url: 
-    display: 
+  authors: Fangyan Yao
   link_main:
-    url: https://www.researchgate.net/publication/325471564_Global_geometrical_optics_method_for_vector-valued_Schrodinger_problems
-    display: Front. Math. China
+    url: https://global-sci.org/intro/article_detail/ijnam/20931.html
+    display: International Journal of Numerical Analysis and Modeling
   bibtex: | 
-    @article{HMZ2018FMC,
-      title = {Global geometrical optics method for vector-valued {{Schr\"odinger}} problems},
-      author = {Hu, Jiashun and Ma, Xiang and Zheng, Chunxiong},
-      volume = {13},
-      number = {3},
-      pages = {579--606},
-      doi = {10.1007/s11464-018-0704-1},
-      journal = {Front. Math. China},
-      year = {2018}
-    }
-
-- title: "Numerical solution of the nonlocal diffusion equation on the real line"
-  year: 2017
-  type: journal
-  label: 
-  image: 
-  description: Numerical computation of a nonlocal diffusion equation on the real axis is considered in this paper, with an alternative formulation based on spectral analysis.
-  authors: C. Zheng, J. Hu, Q. Du, J. Zhang
-  link_pre: 
-    url: 
-    display: 
-  link_main:
-    url: https://doi.org/10.1137/16M1090107
-    display: SIAM J. Sci. Comput.
-  bibtex: | 
-    @article{ZHD+2017SJSC,
-      title = {Numerical solution of the nonlocal diffusion equation on the real line},
-      author = {Zheng, Chunxiong and Hu, Jiashun and Du, Qiang and Zhang, Jiwei},
-      journal = {SIAM J. Sci. Comput.},
-      volume = {39},
+    @article{Yao,
+      title = {A second-order embedded low-regularity integrator for the quadratic nonlinear Schrödinger equation},
+      author = {Yao, Fangyan},
+      journal = {Int. J. Numer. Anal. Model.},
+      year = {2022},
+      volume = {19},
       number = {5},
-      pages = {A1951-A1968},
-      doi = {10.1137/16M1090107},
-      year = {2017}
+      pages = {656--668}
     }
 
-
-- title: "Fast and stable evaluation of the exact absorbing boundary condition for the semi-discrete linear Schrodinger equation in unbounded domains"
-  year: 2017
+- title: "Convergence of an embedded exponential-type low-regularity integrator for the KdV equation without loss of regularity"
+  year: 2021
   type: journal
   label: 
   image: 
   description: 
-  authors: J. Hu and C. Zheng
-  link_pre: 
-    url: 
-    display: 
+  authors: Yongsheng Li, Yifei Wu, and Fangyan Yao
   link_main:
-    url: https://doi.org/10.1016/j.cam.2017.05.018
-    display: J. Comput. Appl. Math.
+    url: http://global-sci.org/intro/article_detail/aam/18628.html
+    display: Annals of Applied Mathematics
   bibtex: | 
-    @article{HZ2017JCAM,
-      title = {Fast and stable evaluation of the exact absorbing boundary condition for the semi-discrete linear {{Schr\"odinger}} equation in unbounded domains},
-      author = {Hu, Jiashun and Zheng, Chunxiong},
-      volume = {326},
-      pages = {116--125},
-      doi = {10.1016/j.cam.2017.05.018},
-      journal = {J. Comput. Appl. Math.},
-      year = {2017}
+    @article{Li-Wu-Yao,
+      title = {Convergence of an embedded exponential-type low-regularity integrator for the KdV equation without loss of regularity},
+      author = {Li, Yongsheng and Wu, Yifei and Yao, Fangyan},
+      journal = {Ann. Appl. Math.},
+      year = {2021},
+      volume = {37},
+      number = {1},
+      pages = {1--21}
     }
+
+- title: "Derivation of the nonlinear Schrödinger equation with a general nonlinearity and Gross-Pitaevskii hierarchy in one and two dimensions"
+  year: 2021
+  type: journal
+  label: 
+  image: 
+  description: 
+  authors: Yongsheng Li and Fangyan Yao
+  link_main:
+    url: https://pubs.aip.org/aip/jmp/article-abstract/62/2/021505/234535/Derivation-of-the-nonlinear-Schrodinger-equation
+    display: Journal of Mathematical Physics
+  bibtex: | 
+    @article{Li-Yao-2021,
+      title = {Derivation of the nonlinear Schrödinger equation with a general nonlinearity and Gross-Pitaevskii hierarchy in one and two dimensions},
+      author = {Li, Yongsheng and Yao, Fangyan},
+      journal = {J. Math. Phys.},
+      year = {2021},
+      volume = {62},
+      number = {2},
+      pages = {021505},
+      doi = {10.1063/5.0038781}
+    }
+```
