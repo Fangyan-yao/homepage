@@ -12,7 +12,7 @@ title                    : "Fangyan Yao"
 title_separator          : "-"
 name                     : &name "Fangyan Yao"
 description              : &description "personal description"
-url                      : https://github.com/Fangyan-yao/homepage # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://github.com/fangyan-yao/homepage # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/Fangyan-yao/homepage"
 
