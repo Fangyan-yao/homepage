@@ -1,4 +1,3 @@
-```yaml
 - title: "Convergence of a moving window method for the Schrödinger equation with potential on ℝᵈ"
   year: 2024
   type: submitted
@@ -186,4 +185,3 @@
       pages = {021505},
       doi = {10.1063/5.0038781}
     }
-```
